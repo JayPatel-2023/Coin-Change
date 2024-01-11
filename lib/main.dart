@@ -15,7 +15,6 @@ class MyApp extends StatelessWidget {
       title: 'Coin Change',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.deepPurple,
         useMaterial3: true,
       ),
       home: Home(),
